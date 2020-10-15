@@ -3,8 +3,7 @@ Full Name: Eze Nnenna Anthoniatta
 
 Stack id: Gracie
 
-
-Summary The Video
+Video Summary
 
 How to Install Git on Windows, Linux, and Mac
 also talked about: Git Tools, Git CMD, Git Bash, Git GUI
