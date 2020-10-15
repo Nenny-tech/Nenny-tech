@@ -1,7 +1,7 @@
 README.md
 Full Name: Eze Nnenna Anthoniatta
 
-Stack id: Gracie
+Stack id: Nenny
 
 Video Summary
 
